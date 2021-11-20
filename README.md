@@ -1,3 +1,2 @@
-# BIBD
-design a BIBD using R
+Experimental design using R
 :coffee:
